@@ -8,4 +8,4 @@ This watchface app provides good chance to learn the code. Time is illustrated a
 If you set 24 hour format of Time, resister background color is blue.　Otherwise the background color is dark green.
 
 # Font
-font by http://www.astigmatic.com
+http://www.astigmatic.com
