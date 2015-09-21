@@ -5,4 +5,7 @@ In a context of electric circuit, 0 is black, 1 is brown, 2 is red, 3 is orange,
 
 This watchface app provides good chance to learn the code. Time is illustrated as the code. 
 
-If you set 24 hour format of Time, resister background color is blue.　Otherwise the background color is dark green. 
+If you set 24 hour format of Time, resister background color is blue.　Otherwise the background color is dark green.
+
+# Font
+font by http://www.astigmatic.com
