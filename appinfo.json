@@ -1,0 +1,36 @@
+{
+    "appKeys": {
+        "KEY_COND": 1,
+        "KEY_TEMP": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Akira Sakisaka",
+    "longName": "Resister as a watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/Righteous-Regular.ttf",
+                "menuIcon": true,
+                "name": "TTF_24",
+                "targetPlatforms": [
+                    "aplite",
+                    "basalt"
+                ],
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Resiwatch",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "419c6424-bcd1-401f-9532-78a2de0f01a0",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
